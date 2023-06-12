@@ -26,7 +26,7 @@ Demo program [zdemo_abap_static_tvarvc.prog.abap
 
 ## Changelog
 
-- 2023.05.30 v1.0.0:
+- 2023.06.12 v1.0.1:
   - Add Class ZCL_TVARV_ECC6 for ECC6 Version.
 
 - 2023.05.30 v1.0.0:
