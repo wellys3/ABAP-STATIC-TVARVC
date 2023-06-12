@@ -12,12 +12,12 @@ Data must be already maintained in TVARVC via T-code STVARV
 
 Data can be in the form of parameter or Select Options
 
+## Installation
+This project is supported by <a href="https://github.com/larshp/abapGit">ABAPGit Project</a>. Download ZIP file or integrate this project to him.
+
 Class ZCL_TVARV for S4 Hana Version.
 
 Class ZCL_TVARV_ECC6 for ECC6 Version.
-
-## Installation
-This project is supported by <a href="https://github.com/larshp/abapGit">ABAPGit Project</a>. Download ZIP file or integrate this project to him.
 
 ## Demo
 
